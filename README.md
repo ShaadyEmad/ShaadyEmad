@@ -28,6 +28,6 @@
 <p><a href="https://www.buymeacoffee.com/ShaadyEmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ShaadyEmad" /></a><a href="https://ko-fi.com/ShaadyEmad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ShaadyEmad" /></a></p><br><br>
 
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaadyEmad&show_icons=true&locale=en" alt="ShaadyEmad" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaadyEmad&show_icons=true&locale=en&layout=compact" alt="ShaadyEmad" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaadyEmad&" alt="ShaadyEmad" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaadyEmad&show_icons=true&locale=en" alt="ShaadyEmad" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaadyEmad&show_icons=true&locale=en&layout=compact" alt="ShaadyEmad" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaadyEmad&" alt="ShaadyEmad" /></p>
